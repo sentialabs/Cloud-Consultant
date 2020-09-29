@@ -25,8 +25,9 @@ The client desire a new environment for this application. They have had problems
 
 ## Deliverables
 A proposal including technical design for the setup of this environment with either...
-reference architecture for connecting new world applications (multi experienced apps) with old world (legacy monolithic systems) apps
-or including deployment mechanism and appropriate required environments with a comparison between Azure and AWS.
+
+...reference architecture for connecting new world applications (multi experienced apps) with old world (legacy monolithic systems) apps
+...or including deployment mechanism and appropriate required environments with a comparison between Azure and AWS.
 
 Please present during the presentation meeting the following:
 How would you design the setup for this application based on the information given in the context?
