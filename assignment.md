@@ -1,6 +1,5 @@
 # Sentia Recruitment
-Welcome to Sentia Recruitment
-The purpose of this repository is to provide an assignment that will highlight the strengths required by a cloud data engineer in our public cloud consultancy workforce.
+Welcome to Sentia Recruitment.The purpose of this repository is to provide an assignment that will highlight the strengths required by a cloud data engineer in our public cloud consultancy workforce.
 
 ## Table of content
 - [General Information](#general-information)
