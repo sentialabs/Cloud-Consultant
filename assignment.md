@@ -9,8 +9,8 @@ Welcome to Sentia Recruitment.The purpose of this repository is to provide an as
 - [License](#license)
 
 ## General Information
-This assignment is meant to challenge the potential applicant in the complete spectrum of designing a solution and delivering an environment in the public cloud using Infrastructure as Code (IaC).
-Please be aware of the fact that we are not only looking at the actual deliverables but also the process followed to achieve these results. *The presentation of the results is of equal importance to the actual results.*
+This assignment is meant to challenge the potential applicant in the complete spectrum of designing a solution and delivering a proposal for the public cloud.
+Please be aware of the fact that we are not only looking at the actual deliverables but also the process followed to achieve these results. *The presentation of the results is of equal importance as the actual outcome.*
 
 ## Assignment
 A client has an interface published, based on a node.js application. This application runs on a host with NGINX. Another process is also running for batch processing for asynchronous message replication. The application is making use of a MongoDB database.
@@ -24,13 +24,14 @@ The application is maintained by a team with a strong background of software eng
 The client desire a new environment for this application. They have had problems in the past regarding performance. The application couldn't handle the load during peak moments. There were also incidents where incoming messages have disappeared before they were actually processed. Availability, in general, was also an issue.
 
 ## Deliverables
-A proposal including technical design for the setup of this environment with either...
+A proposal including technical design for the setup of this environment with...
 
-...reference architecture for connecting new world applications (multi experienced apps) with old world (legacy monolithic systems) apps
-...or including deployment mechanism and appropriate required environments with a comparison between Azure and AWS.
+...reference architecture for connecting new world applications (multi experienced apps) with old world (legacy monolithic systems) apps,
+...and including appropriate required environments with a comparison between Azure, AWS or GCP (pick at least two variations) expressed in effort and costs,
+...and a concluding advise.
 
 Please present during the presentation meeting the following:
-How would you design the setup for this application based on the information given in the context?
+How would you design the setup for this application based on the information given in the case?
 What would be your approach in transforming this environment together with the customer and her DEV team?
 During this meeting you have to convince the audience of your proposal.
 
