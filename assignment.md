@@ -27,6 +27,7 @@ The client desire a new environment for this application. They have had problems
 A proposal including technical design for the setup of this environment with...
 
 ...reference architecture for connecting new world applications (multi experienced apps) with old world (legacy monolithic systems) apps,
+
 ...and including appropriate required environments with a comparison between Azure, AWS or GCP (pick at least two variations) expressed in effort and costs,
 
 ...and a concluding advise.
